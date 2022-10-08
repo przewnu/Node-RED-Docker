@@ -239,6 +239,12 @@ module.exports = {
     //        module:"localfilesystem"
     //    },
     //},
+    
+    contextStorage: {
+        default: "memoryOnly",
+        memoryOnly: { module: 'memory' },
+        file: { module: 'localfilesystem' }
+      },
 
     // The following property can be used to order the categories in the editor
     // palette. If a node's category is not in the list, the category will get
