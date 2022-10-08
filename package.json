@@ -5,7 +5,7 @@
     "dependencies": {
         "@cloudnative/health-connect": "^2.0.0",
         "express": "4.17.1",
-        "node-red": "^1.0.0",
+        "node-red": "^3.0.2",
         "node-red-contrib-buffer-parser": "~3.2.2",
         "node-red-contrib-dashboard-bar-chart-data": "~0.9.8",
         "node-red-contrib-edge-trigger": "~1.0.1",
